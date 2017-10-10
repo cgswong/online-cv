@@ -1,7 +1,8 @@
-
+---
 title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+url: 'http://cgswong.github.io'
+# Change it according to your repository name
+baseurl: '/online-cv' 
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -11,21 +12,20 @@ baseurl: '/online-cv' #change it according to your repository name
 #style: styles-5
 #style: styles-6
 
+# Profile information
+name: 'Carrington Wong'
+tagline: 'Solutions Architect / Infrastructure Engineer'
+# Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile.png  
 
-#Profile information
-name: Alan Doe
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-#sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
-
+# Sidebar links
+email: 'cgs.wong@gmail.com'
+phone: '732 733 2367'
+website: cgswong.github.io # Do not add http://
+linkedin: 'cgswong'
+github: 'cgswong'
+twitter: '@cgswong'
 
 # Tracker
 analytics: UA-83979019-1
-#Update all the sections by editing the files inside _includes folder.
+# Update all the sections by editing the files inside _includes folder.
